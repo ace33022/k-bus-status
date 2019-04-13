@@ -256,8 +256,8 @@ Configurations.loadJS(Configurations.requirejsFile, function() {
 
 							baseModal.on('hidden.bs.modal', function() {
 
-								var url = new String(location.origin) + '?';
-
+								var url = new String(location.origin + location.pathname) + '?';
+								
 								modalBody.find('.btn-primary').each(function(index, element) {
 
 									if (index !== 0) url += '&';
