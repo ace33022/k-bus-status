@@ -140,12 +140,77 @@
 
 @see {@link https://uigradients.com/|uiGradients - Beautiful colored gradients}
 
-@see {@link https://1stwebdesigner.com/|1stWebDesigner - Helping You Build a Better Web}
-@see {@link https://1stwebdesigner.com/web-design-courses-online/|The Top 20 Web Design Courses You Should Know About}
-@see {@link https://1stwebdesigner.com/best-css-tools/|10 Best CSS Tools & Web-Based Apps For Developers - 1stWebDesigner}
-
-@see {@link https://postcss.org/|PostCSS - a tool for transforming CSS with JavaScript}
-@see {@link https://github.com/postcss/postcss|postcss/postcss: Transforming styles with JS plugins}
-
-
-# location
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=0 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=3
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=5 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=6
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=7
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=11
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=12
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=15
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=16
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=23 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=24
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=25
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=26
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=28
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=29
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=30 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=33
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=35 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=36
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=37
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=38 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=39
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=50
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=52
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=53 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=56
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=60
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=62
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=69
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=70
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=72
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=73 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=76 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=77
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=81
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=82
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=83
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=87
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=88 =>non
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=90
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=92
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=96 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=97
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=98 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=99
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=100
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=168 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=205 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=214
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=217
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=218
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=219
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=224 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=239
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=245
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=248
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=261
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=301
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8001
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8006 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8008 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8009 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8010
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8012
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8013
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8015 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8017
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8020
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8021
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8023
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8026 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8029 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8033 =>none
+http://ibus.tbkc.gov.tw/xmlbus/GetBusData.xml?routeids=8035 =>none
